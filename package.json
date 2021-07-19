@@ -1,0 +1,19 @@
+{
+  "name": "sodoku",
+  "version": "1.0.0",
+  "description": "just your everyday sodoku puzzle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshamley/sodoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshamley/sodoku/issues"
+  },
+  "homepage": "https://github.com/jshamley/sodoku#readme"
+}
