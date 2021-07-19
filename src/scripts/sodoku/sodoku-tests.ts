@@ -1,5 +1,6 @@
 import { easyGameArr, evilGameArr, evilGameArr2, hardGameArr, hardGameArr2, hardGameArr3, mediumGameArr, veryeasyGameArr } from './sodoku-consts';
-import { printBoard, solve } from './sodoku';
+import { printBoard } from './sodoku-utils';
+import { solve } from './sodoku';
 
 console.log('');
 console.log('Starting game - VERY EASY');
