@@ -20,6 +20,7 @@ const getSquare = (board: Array<Array<number>>, square: number): Array<number> =
   }
   return cells;
 };
+
 const appearsOnlyOnce = (board: Array<Array<number>>, possibilities: Array<number>, segment: Array<number>, row: number, col: number): boolean => {
   let updated = false;
   for (let i = 0; i < possibilities.length; i++) {
